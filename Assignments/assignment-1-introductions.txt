@@ -4,18 +4,18 @@ Due: Tuesday, January 23, 2018 @ 8:00am
 
 Fill in the following three blanks.
 
-Name:
-Major:
-Expected graduation date:
+Name: Madeline Becker
+Major: Statistics
+Expected graduation date: May 2021
 
 
 Answer the following four questions.
 
 Why are you taking this class?
-
+I'm taking this class to improve on my programming skills.
 What is your previous programming experience?
-
+I took Intro to Computational Thinking last semester.
 What do you want to take away from this class?
-
+I want to take away a better understanding of Python.
 Do you have any apprehensions about this class? If so, describe.
-
+No.
